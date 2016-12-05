@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jacobjimenez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-8b884706a132410046ac6287de04279ae7842822.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-30b981c80a49e2e4c3de309c606c4fbdc903ee34.jar" />
+    </item>
+    <item
+        jar="/Users/jacobjimenez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-e75e04dcf402df2cdec1f72aff5b8587bea8423c.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-ade14419864fdc73350f6d563287fe5ca4732b28.jar" />
+    </item>
+    <item
+        jar="/Users/jacobjimenez/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-ee4219ddcf73528b4679f9a52b4ba74ab7fead61.jar" />
+    </item>
+    <item
+        jar="/Users/jacobjimenez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-0450a43434f0f0c2179a3b2a59c22a88cf8459a2.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-090605caa8f4628b63d259f8f50eb32757ceb605.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-71fee7786896e1847b75a6beadb49cd43df0d613.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-078e41aec0f4d010ef49786ae89a52a893c22858.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/listo/react-native-device-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7cf1f45e3cecc02038ffa342fe2a5869c32479c7">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-7d8b6cb708fede7275a38113d5421e305e42ef68.jar" />
+    </item>
+    <item
+        jar="/Users/jacobjimenez/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-9d71c3c3cd1aefc5bd00ed56ba75c491b48e7e56.jar" />
+    </item>
+    <item
+        jar="/Users/jacobjimenez/Library/Android/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-e0a485077bbc597176b04067e9f5b73399c9f7d9.jar" />
+    </item>
+    <item
+        jar="/Users/jacobjimenez/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-c0edfa72ca7f97eb2e8642a4af9dc5cee5584b4f.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-aad0acbb8cd186c16c1569919ceded53c8670621.jar" />
+    </item>
+    <item
+        jar="/Users/jacobjimenez/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-235626baa3a419ef10507e6ad7a9d29454b034b3.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.38.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7eca7c5f7ce322879fb0b987cae023d90f58f74d">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-45eb82797d8c405f2016d12a33f0763603abd950.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-7d60270388c01524017a25b5d69de66ec0bc830d.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-98e0de80366155548bb4da755fe63f89e687a1d8.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-096aa6c8c3c53c0d369fbcdd04b7b571c3277719.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-ddbd0a6b3d1d1e0ac243356844ade92c5721e0fb.jar" />
+    </item>
+    <item
+        jar="/Users/jacobjimenez/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-9143d44a6950ec9e418fccfbdd32b9852c4cd3d9.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-1f7d446c404f44caab5feb13d562305c73905c87.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-48e7787e592e4bb8d8959d0e3ad9c37c111b2174.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-68d1f1220d087aa7726d576c93bf38e45f1c0d2f.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-103e2f3b021adbe0a64f232f9bfe674a7323b5b6.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.38.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="31505a7c45916845f6cc8d49149a1f601edb4ee5">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-55379b2557b51d73778397467a50b08993fe25d2.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-d1d3290e1750666174c4189c7e70ea731a805f2b.jar" />
+    </item>
+    <item
+        jar="/Users/jacobjimenez/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-79e3a41b76b493ebbd8965ce68da068d7c25ff71.jar" />
+    </item>
+    <item
+        jar="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Volumes/DRIVE_B/DevEnv/listo/android/app/build/intermediates/pre-dexed/debug/classes-3d978fc68b13318a2ac55852b3b177d8eef8446c.jar" />
+    </item>
+
+</items>
